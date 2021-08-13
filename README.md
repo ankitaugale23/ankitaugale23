@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaugale23" alt="ankitaugale23" /> </p>
 <br />
 
-- 💻 Actively looking for Software Development Engineer positon
+- 💻 Actively looking for Software Development Engineer roles
 - 🌱 I work with **React*
 - 👨‍💻 All of my projects are available at [https://github.com/ankitaugale23](https://github.com/ankitaugale23)
 - 📝 I like to pen my knowledge and experience on [https://ankita-ugale.medium.com/](https://ankita-ugale.medium.com/)
@@ -14,7 +14,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/ankitaugale23">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankitaugale23&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitaugale23&theme=buefy&layout=compact" />
 </a>
