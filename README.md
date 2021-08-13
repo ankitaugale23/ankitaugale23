@@ -5,7 +5,7 @@
 <br />
 
 - 💻 Actively looking for Software Development Engineer roles
-- 🌱 I work with **React*
+- 🌱 I work with **React**
 - 👨‍💻 All of my projects are available at [https://github.com/ankitaugale23](https://github.com/ankitaugale23)
 - 📝 I like to pen my knowledge and experience on [https://ankita-ugale.medium.com/](https://ankita-ugale.medium.com/)
 - 💬 Ask me about **React, Open Source, Content Writing and Community building**
