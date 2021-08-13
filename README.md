@@ -1,4 +1,4 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hello everyone! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px" ></h2>
 <h1 align="center">I'm Ankita Ugale</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitaugale23" alt="ankitaugale23" /> </p>
